@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_zero"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_one"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_two"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_three"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_four"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_five"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_six"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_seven"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_eight"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:copper_nine"
+				}
+			]
+		}
+	]
+	
+	
+
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"III",
+		"III",
+		"III"
+	],
+	
+	"key":	
+	{
+		"I": { "item": "uselessores:copper_ingot67"}
+	},
+	
+	"result": { "item": "uselessores:copper_ingot68"},
+	"count": 1
+
+}

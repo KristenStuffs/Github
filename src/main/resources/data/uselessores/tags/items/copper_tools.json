@@ -1,0 +1,12 @@
+{
+	"replace": "true",
+	"values":
+	[
+		"uselessores:copper_axe",
+		"uselessores:copper_hoe",
+		"uselessores:copper_pickaxe",
+		"uselessores:copper_shovel",
+		"uselessores:copper_sword"
+	
+	]
+}

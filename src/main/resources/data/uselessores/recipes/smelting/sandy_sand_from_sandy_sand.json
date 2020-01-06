@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:sandy_sand" },
+	
+	"result": { "item": "uselessores:sandy_sand"},
+	"experience": 0.0,
+	"count": 1
+
+}

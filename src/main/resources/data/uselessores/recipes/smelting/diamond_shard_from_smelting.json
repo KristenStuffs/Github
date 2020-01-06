@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:chaos_ore" },
+	
+	"result": { "item": "uselessores:diamond_shard"},
+	"experience": 0.0,
+	"count": 1
+
+}

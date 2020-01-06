@@ -1,0 +1,27 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+modId="uselessores" #mandatory
+version="100" #mandatory
+ # A display name for the mod
+displayName="Useless Ores" #mandatory
+credits="Thanks for those who inspired me to make this" #optional
+authors="KristenStuffs" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+What's a Copper?
+'''
+[[dependencies.uselessores]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[28,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.uselessores]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

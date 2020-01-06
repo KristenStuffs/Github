@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_zero"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_one"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_two"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_three"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_four"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_five"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_six"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_seven"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_eight"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:nine_ninety_nine_nine"
+				}
+			]
+		}
+	]
+	
+	
+
+}

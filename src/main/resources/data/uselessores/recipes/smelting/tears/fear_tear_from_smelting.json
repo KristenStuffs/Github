@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:shame_tear" },
+	
+	"result": { "item": "uselessores:fear_tear"},
+	"experience": 0.0,
+	"count": 1
+
+}

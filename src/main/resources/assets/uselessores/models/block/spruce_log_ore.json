@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "uselessores:block/spruce_log_ore"
+    }
+}

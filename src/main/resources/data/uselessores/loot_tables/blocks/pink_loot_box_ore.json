@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:block",
+	"pools":
+	[
+		{
+			"rolls": 1,
+			"entries":
+			[
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_zero"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_one"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_two"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_three"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_four"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_five"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pinkr_six"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_seven"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_eight"
+				},	
+				{
+					"type": "minecraft:item",
+					"name": "uselessores:pink_nine"
+				}
+			]
+		}
+	]
+	
+	
+
+}

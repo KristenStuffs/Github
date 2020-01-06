@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:purple_doritos_ore" },
+	
+	"result": { "item": "uselessores:purple_doritos"},
+	"experience": 0.0,
+	"count": 1
+
+}

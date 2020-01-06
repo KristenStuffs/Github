@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"II",
+		" S",
+		" S"
+	],
+	
+	"key":	
+	{
+		"I": { "item": "uselessores:copper_ingot102"},
+		"S": { "item": "minecraft:stick"}
+		
+	},
+	
+	"result": { "item": "uselessores:copper_hoe"},
+	"count": 1
+
+}

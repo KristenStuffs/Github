@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:rock" },
+	
+	"result": { "item": "uselessores:tear"},
+	"experience": 0.0,
+	"count": 1
+
+}

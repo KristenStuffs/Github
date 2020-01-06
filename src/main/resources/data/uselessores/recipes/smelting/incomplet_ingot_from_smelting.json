@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:incomplet_ore" },
+	
+	"result": { "item": "uselessores:incomplet_ingot"},
+	"experience": 0.0,
+	"count": 1
+
+}

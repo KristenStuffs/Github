@@ -1,0 +1,10 @@
+{
+	"replace": "true",
+	"values":
+	[
+		"uselessores:copper_ore",
+		"uselessores:nether_copper_ore",
+		"uselessores:ender_copper_ore"
+	
+	]
+}

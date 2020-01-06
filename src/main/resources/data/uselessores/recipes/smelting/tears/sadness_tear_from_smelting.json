@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:angery_tear" },
+	
+	"result": { "item": "uselessores:sadness_tear"},
+	"experience": 0.0,
+	"count": 1
+
+}

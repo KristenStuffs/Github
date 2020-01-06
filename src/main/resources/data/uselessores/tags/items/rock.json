@@ -1,0 +1,13 @@
+{
+	"replace": "true",
+	"values":
+	[
+		"uselessores:rock",
+		"uselessores:nether_rock",
+		"uselessores:ender_rock",
+		"uselessores:water_ore",
+		"uselessores:diorite2",
+		"uselessores:polished_diorite2",
+		"uselessores:marple"
+	]
+}

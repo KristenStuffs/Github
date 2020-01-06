@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:missing_texture_ore" },
+	
+	"result": { "item": "uselessores:missing_texture"},
+	"experience": 0.0,
+	"count": 1
+
+}

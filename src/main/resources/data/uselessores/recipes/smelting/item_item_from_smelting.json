@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "tag": "uselessores:ore_ore" },
+	
+	"result": { "item": "uselessores:item_item"},
+	"experience": 0.0,
+	"count": 1
+
+}

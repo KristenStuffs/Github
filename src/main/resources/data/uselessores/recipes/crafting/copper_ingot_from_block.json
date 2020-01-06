@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "uselessores:copper_block"
+    }
+  ],
+  "result": {
+    "item": "uselessores:copper_ingot1",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"replace": "true",
+	"values":
+	[
+		"uselessores:oak_log_ore",
+		"uselessores:spruce_log_ore",
+		"uselessores:birch_log_ore",
+		"uselessores:jungle_log_ore",	
+		"uselessores:acacia_log_ore",
+		"uselessores:dark_oak_log_ore"
+	]
+}

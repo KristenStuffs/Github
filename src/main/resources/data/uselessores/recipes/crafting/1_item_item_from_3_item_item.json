@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    
+     {  "item": "uselessores:item_item" },
+     {  "item": "uselessores:item_item" },
+     {  "item": "uselessores:item_item" }
+         
+  ],
+  "result": {
+    "item": "uselessores:item_item",
+    "count": 1
+  }
+}
